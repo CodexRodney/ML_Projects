@@ -1,0 +1,7 @@
+*.zip
+LandClassifier/landmark_images/
+LandClassifier/checkpoints/
+*.html
+.ipynb_checkpoints/
+mean_and_std.pt
+__pycache__
